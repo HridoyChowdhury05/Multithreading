@@ -5,5 +5,4 @@ public class Hello extends Thread{
             System.out.println(Thread.currentThread().getName());
         }
     }
-
 }
